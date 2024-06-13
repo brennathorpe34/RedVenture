@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <body>
 
@@ -40,8 +39,8 @@
 
   <p class="italic">Source: Professor Oak, Pokédex</p>
 
-  <p>Code the following records held by Joey Chestnut — 13-time champion of <a href="https://nathansfranks.sfdbrands.com/en-us/promotions/hot-dog-eating-contest/">Nathan’s Famous Hot
-    Dog Eating Contest</a>  — as a numbered list:</p>
+  <p>Code the following records held by Joey Chestnut — 13-time champion of <a href="https://nathansfranks.sfdbrands.com/en-us/promotions/hot-dog-eating-contest/"><u>Nathan’s Famous Hot
+    Dog Eating Contest</u></a>  — as a numbered list:</p>
 
     <ol>
         <li>75 hot dogs (2020)</li>
